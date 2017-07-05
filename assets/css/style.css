@@ -1,0 +1,90 @@
+body {
+	background-image: url("../images/jewelbackground.jpg");
+}
+
+h1{
+	background-image: url("../images/shine.jpg");
+	font-family: georgia; 
+
+	
+	font-size: 40px;
+	display:inline;
+	clear: both;
+	padding: 10px;
+	margin-bottom: 20px;
+	border: solid 1px #ddd;
+
+}
+
+#wrapper {
+	width: 100%
+	max-width:960px;
+	margin: 0 auto;
+}
+
+#instructions {
+	background-image: url("../images/diamond.jpg");
+
+	font-family: Georgia;
+	font-weight: bold;
+	font-size: 17px;
+	width: 50%;
+	clear:both;
+	padding: 15px;
+	margin-top: 20px;
+	border: solid 1px #ddd
+}
+
+#guessingNumber {
+	background-image: url("../images/jade.jpg");
+	font-family: Georgia;
+	font-size: 20px;
+	float: left;
+	display: inline-block;
+	padding: 10px;
+	margin-top: 20px;
+	border: solid 1px #ddd
+}
+
+#scoreboard {
+	background-image: url("../images/diamond.jpg");
+	font-family: arial;
+	font-size: 20px;
+	display: inline-block;
+	padding: 15px 20px 10px 15px;
+	margin-top: 20px;
+	margin-left: 20px;
+	border: solid 1px #ddd
+
+}
+
+#crystals {
+	margin-top: 15px;
+	margin-bottom:26px;
+
+}
+
+.crystalImage {
+	height: 111px;
+	border: solid 1px #272525;
+	margin-left: 10px
+}
+
+.crystalImage:firstchild {
+	margin-left: 0px;
+
+}
+
+#totalScore {
+	margin-bottom: 50px;
+	font-family: Times new roman;
+	font-size: 20px;
+
+}
+
+#yts {
+	background-image: url("../images/jade.jpg");
+	display: inline;
+	padding: 20px;
+	border: solid 1px #ddd
+}
